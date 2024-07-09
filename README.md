@@ -1,15 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ernestas</h1>
-<h3 align="center">A passionate flutter developer from Lithuania</h3>
+<h3 align="center">A flutter developer from Lithuania</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ernestasraw&label=Profile%20views&color=0e75b6&style=flat" alt="ernestasraw" /> </p>
-
-- 🌱 I’m currently learning **Flutter, Kotlin, Java**
-
-- 👯 I’m looking to collaborate on **mobile projects**
-
-- 📫 How to reach me **ernestasjasi@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/ernestas-jasi%C5%ABnas/](https://www.linkedin.com/in/ernestas-jasi%C5%ABnas/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
